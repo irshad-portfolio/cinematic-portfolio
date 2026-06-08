@@ -1,22 +1,22 @@
 {
   "name": {
-    "first": "Jyoti",
-    "last": "Sinha",
-    "full": "Jyoti Sinha"
+    "first": "Irshad",
+    "last": "N",
+    "full": "Irshad N"
   },
-  "email": "jyotisinha0526@gmail.com",
-  "tagline": "Designing reliable Control-M operations, automation, and AI-assisted support systems.",
-  "description": "Control-M SME and production support specialist with 15+ years across banking, enterprise workload automation, ITSM, RPA, and AI-assisted operations.",
+  "email": "irshadnoushad64@@gmail.com",
+  "tagline": "Aspiring Data Analyst python learner|tech.",
+  "description": "Control-M SME and production support specialist with 1+ years across banking, enterprise workload automation, ITSM, RPA, and AI-assisted operations.",
   "roles": {
-    "short": "Software Engineer",
+    "short": "python developer",
     "detailed": "Control-M SME | Production L3 Support | Agentic AI Automation"
   },
   "location": {
-    "based": "Singapore",
-    "availability": "Singapore / Remote"
+    "based": "kerala",
+    "availability": "kerala, India / Remote"
   },
   "available": true,
-  "bio": "IT professional with 15+ years of experience in Control-M administration, batch workflow design, production support, infrastructure management, automation, and ITIL-led service delivery. Currently supporting enterprise Control-M customers at BMC Software, with deep experience across banking environments, Unix/Linux and Windows platforms, shell scripting, Python, SQL, VBA, UiPath RPA, REST APIs, and AI-assisted support tooling.",
+  "bio": "IT professional with 1+ years of experience in Control-M administration, batch workflow design, production support, infrastructure management, automation, and ITIL-led service delivery. Currently supporting enterprise Control-M customers at BMC Software, with deep experience across banking environments, Unix/Linux and Windows platforms, shell scripting, Python, SQL, VBA, UiPath RPA, REST APIs, and AI-assisted support tooling.",
   "stats": [
     { "value": "15+", "label": "Years Experience" },
     { "value": "8+", "label": "Enterprise Roles" },
