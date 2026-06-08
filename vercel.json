@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd cinematic-portfolio-main && npm run build",
+  "devCommand": "cd cinematic-portfolio-main && npm run dev",
+  "installCommand": "cd cinematic-portfolio-main && npm install",
+  "outputDirectory": "cinematic-portfolio-main/.next"
+}
