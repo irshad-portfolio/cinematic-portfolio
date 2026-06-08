@@ -3,7 +3,7 @@ import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
 
-export const alt = 'Jyoti Sinha | Software Engineer'
+export const alt = 'Irshad N | Aspiring Data Analyst'
 
 export const size = {
   width: 1200,
@@ -13,7 +13,7 @@ export const size = {
 export const contentType = 'image/png'
 
 const ACCENT = '#f7931e'
-const photoUrl = `${SITE_URL}/assets/jyoti-about.jpeg`
+const photoUrl = `${SITE_URL}/assets/irshad-about.png`
 
 export default function Image() {
   return new ImageResponse(
@@ -70,7 +70,6 @@ export default function Image() {
                 marginRight: 12,
               }}
             />
-
             <span
               style={{
                 color: ACCENT,
@@ -80,7 +79,7 @@ export default function Image() {
                 textTransform: 'uppercase',
               }}
             >
-              CONTROL-M SME
+              ASPIRING DATA ANALYST
             </span>
           </div>
 
@@ -100,9 +99,8 @@ export default function Image() {
                 letterSpacing: -4,
               }}
             >
-              JYOTI
+              IRSHAD
             </span>
-
             <span
               style={{
                 fontSize: 92,
@@ -111,7 +109,7 @@ export default function Image() {
                 letterSpacing: -4,
               }}
             >
-              SINHA
+              N
             </span>
           </div>
 
@@ -125,8 +123,8 @@ export default function Image() {
               marginBottom: 34,
             }}
           >
-            Enterprise workload automation, production support, and
-            AI-assisted operations for critical systems.
+            Passionate about Python, SQL, Power BI, and
+            data-driven problem solving from Kerala, India.
           </div>
 
           {/* TAGS */}
@@ -139,10 +137,10 @@ export default function Image() {
             }}
           >
             {[
-              'Control-M',
-              'L3 Support',
-              'Automation',
-              'Agentic AI',
+              'Python',
+              'SQL',
+              'Power BI',
+              'Data Analytics',
             ].map((tag) => (
               <div
                 key={tag}
@@ -169,9 +167,9 @@ export default function Image() {
             }}
           >
             {[
-              ['15+', 'Years'],
-              ['8+', 'Roles'],
-              ['CTM + AI', 'Specialist'],
+              ['3+', 'Projects'],
+              ['4+', 'Skills'],
+              ['1', 'Portfolio'],
             ].map(([value, label]) => (
               <div
                 key={label}
@@ -189,7 +187,6 @@ export default function Image() {
                 >
                   {value}
                 </span>
-
                 <span
                   style={{
                     fontSize: 14,
@@ -217,18 +214,15 @@ export default function Image() {
             position: 'relative',
           }}
         >
-          {/* IMAGE */}
           <img
             src={photoUrl}
             width={420}
             height={630}
-            alt="Jyoti Sinha"
+            alt="Irshad N"
             style={{
               objectFit: 'cover',
             }}
           />
-
-          {/* OVERLAY */}
           <div
             style={{
               position: 'absolute',
@@ -250,7 +244,7 @@ export default function Image() {
             letterSpacing: 2,
           }}
         >
-          jyoti-sinha-portfolio.vercel.app
+          {SITE_URL}
         </div>
       </div>
     ),
