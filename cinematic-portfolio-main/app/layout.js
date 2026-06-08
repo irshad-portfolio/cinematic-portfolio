@@ -27,48 +27,50 @@ const dancing = Dancing_Script({
 });
 
 const description =
-  'Control-M SME and production support specialist with 15+ years across enterprise workload automation, ITSM, RPA, and AI-assisted operations.';
+  'Aspiring Data Analyst from Kollam, Kerala, passionate about Python, SQL, Power BI, and data-driven problem solving.';
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: 'Jyoti Sinha | Software Engineer',
-    template: '%s | Jyoti Sinha',
+    default: 'Irshad N | Aspiring Data Analyst',
+    template: '%s | Irshad N',
   },
   description,
   keywords: [
-    'Jyoti Sinha',
-    'Control-M SME',
-    'Control-M Administrator',
-    'Production Support',
-    'Application L3 Support',
-    'Agentic AI Automation',
-    'Batch Scheduling',
-    'ITIL',
-    'UiPath RPA',
-    'Singapore',
+    'Irshad N',
+    'Data Analyst',
+    'Python',
+    'SQL',
+    'Power BI',
+    'Excel',
+    'Data Analytics',
+    'GitHub',
+    'Data Visualization',
+    'Kollam',
+    'Kerala',
+    'India',
   ],
-  authors: [{ name: 'Jyoti Sinha', url: SITE_URL }],
-  creator: 'Jyoti Sinha',
+  authors: [{ name: 'Irshad N', url: SITE_URL }],
+  creator: 'Irshad N',
   openGraph: {
     type: 'website',
-    locale: 'en_SG',
+    locale: 'en_IN',
     url: SITE_URL,
-    siteName: 'Jyoti Sinha',
-    title: 'Jyoti Sinha | Control-M SME',
+    siteName: 'Irshad N',
+    title: 'Irshad N | Aspiring Data Analyst',
     description,
     images: [
       {
         url: '/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Jyoti Sinha | Control-M SME Portfolio',
+        alt: 'Irshad N | Data Analyst Portfolio',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Jyoti Sinha | Control-M SME',
+    title: 'Irshad N | Aspiring Data Analyst',
     description,
     images: ['/opengraph-image'],
   },
@@ -117,13 +119,12 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'Person',
-              name: 'Jyoti Sinha',
+              name: 'Irshad N',
               url: SITE_URL,
-              email: 'jyotisinha0526@gmail.com',
-              jobTitle: 'Control-M SME',
+              email: 'irshadnoushad64@gmail.com',
+              jobTitle: 'Aspiring Data Analyst',
               sameAs: [
-                'https://ctm-log-analyzer.netlify.app/',
-                'https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/',
+                'https://github.com/irshad-portfolio',
               ],
             }),
           }}
