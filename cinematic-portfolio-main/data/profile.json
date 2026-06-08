@@ -121,6 +121,8 @@
   "socials": [
     { "label": "GitHub",    "href": "https://github.com/irshad-portfolio" },
     { "label": "LinkedIn",  "href": "" },
-    { "label": "Instagram", "href": "" }
+    { "label": "Medium",    "href": "" },
+    { "label": "Instagram", "href": "" },
+    { "label": "YouTube",   "href": "" }
   ]
 }
