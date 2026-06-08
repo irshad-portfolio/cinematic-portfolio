@@ -4,174 +4,123 @@
     "last": "N",
     "full": "Irshad N"
   },
-  "email": "irshadnoushad64@@gmail.com",
-  "tagline": "Aspiring Data Analyst python learner|tech.",
-  "description": " passionate about Python, SQL, Power BI and data-driven problem solving."
+  "email": "irshadnoushad64@gmail.com",
+  "tagline": "Aspiring Data Analyst | Python Learner | Tech Enthusiast",
+  "description": "Passionate about Python, SQL, Power BI, and data-driven problem solving.",
   "roles": {
-    "short": "python developer",
-    "detailed": "Control-M SME | Production L3 Support | Agentic AI Automation"
+    "short": "Data Analytics Learner",
+    "detailed": "Data Analytics Learner | Python | SQL | Power BI"
   },
   "location": {
-    "based": "kerala",
-    "availability": "kerala, India / Remote"
+    "based": "Kollam, Kerala",
+    "availability": "Kerala, India / Remote"
   },
   "available": true,
-  "bio": "IT professional with 1+ years of experience in Control-M administration, batch workflow design, production support, infrastructure management, automation, and ITIL-led service delivery. Currently supporting enterprise Control-M customers at BMC Software, with deep experience across banking environments, Unix/Linux and Windows platforms, shell scripting, Python, SQL, VBA, UiPath RPA, REST APIs, and AI-assisted support tooling.",
+  "bio": "I am Irshad N from Kollam, Kerala, India. I am currently learning Data Analytics, Python, SQL, Power BI and GitHub. I am passionate about technology, data analysis, problem solving and building useful projects. My goal is to start a career in Data Analytics and continuously improve my technical skills.",
   "stats": [
-    { "value": "15+", "label": "Years Experience" },
-    { "value": "8+", "label": "Enterprise Roles" },
-    { "value": "2", "label": "AI Automation Projects" }
+    { "value": "3+", "label": "Projects Completed" },
+    { "value": "4+", "label": "Skills Learning" },
+    { "value": "1", "label": "Portfolio Website" }
   ],
   "skills": [
-    "Control-M SME",
-    "L2/L3 Support",
-    "Batch Scheduling",
-    "Production Support",
-    "Agentic AI",
-    "Automation",
-    "Unix/Linux",
-    "Shell Scripting",
     "Python",
     "SQL",
-    "UiPath RPA",
-    "ITIL",
-    "ServiceNow",
-    "Jira",
-    "RCA",
-    "REST API"
+    "Power BI",
+    "Excel",
+    "Data Analytics",
+    "GitHub",
+    "Data Visualization"
   ],
   "experience": [
     {
       "id": 1,
-      "role": "Control-M Staff Technical Analyst",
-      "company": "BMC Software Asia Pacific Pte Ltd",
-      "companyShort": "BMC SOFTWARE",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "Nov 2022",
+      "role": "Self-Learning — Data Analytics",
+      "company": "Independent / Online Platforms",
+      "companyShort": "Self-Learning",
+      "type": "Learning",
+      "location": "Kollam, Kerala, India",
+      "period": "2024",
       "periodEnd": "Present",
       "bullets": [
-        "Provide Level 2 and Level 3 technical support for Control-M across enterprise Linux, Unix, and Windows environments.",
-        "Advise global customers on Control-M architecture, workload optimization, upgrades, migrations, compatibility, and operational best practices.",
-        "Perform RCA, reproduce customer issues in lab environments, validate fixes, manage escalations to R&D, and publish knowledge articles and videos.",
-        "Built AI-powered Control-M Log Analyzer and Salesforce case follow-up automation to reduce manual investigation and improve support response time."
+        "Learning Python for data analysis, automation, and scripting through hands-on projects and online courses.",
+        "Practicing SQL for querying, filtering, aggregating, and managing structured datasets.",
+        "Building dashboards and visual reports using Power BI to present data insights clearly.",
+        "Using GitHub for version control, project management, and sharing learning projects publicly.",
+        "Exploring Excel for data cleaning, pivot tables, formulas, and basic data visualization."
       ],
-      "desc": "Enterprise Control-M technical support, architecture advisory, RCA, escalation management, upgrade planning, and AI-assisted automation for global customers.",
-      "tech": ["Control-M", "Linux", "Unix", "Windows", "Python", "OpenAI API", "React", "Node.js", "ITSM"]
-    },
-    {
-      "id": 2,
-      "role": "Control-M Analyst",
-      "company": "United Overseas Bank (UOB)",
-      "companyShort": "UOB",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "Aug 2021",
-      "periodEnd": "Nov 2022",
-      "bullets": [
-        "Supported Operations & Technology Control-M administration, scheduling, production support, and batch workflow management.",
-        "Automated manual activities using VB scripting, VBA macros, batch scripts, Unix shell scripts, and SQL to improve operational efficiency.",
-        "Implemented LDAP authentication for Control-M access and supported upgrades, migrations, HA setup, DR checks, and production changes.",
-        "Handled incidents, problems, and changes through Remedy, Jira, and ServiceNow while coordinating with application, infrastructure, and business teams."
-      ],
-      "desc": "Control-M SME support for banking operations, automation, access management, batch execution, DR verification, and ITIL-aligned service delivery.",
-      "tech": ["Control-M", "Unix", "Shell", "VBA", "SQL", "Remedy", "Jira", "ServiceNow", "AIX"]
-    },
-    {
-      "id": 3,
-      "role": "RPA Consultant & Business Analyst",
-      "company": "ABeam Consulting (OCBC Bank)",
-      "companyShort": "ABEAM / OCBC",
-      "type": "Consulting",
-      "location": "Singapore",
-      "period": "Jun 2019",
-      "periodEnd": "Mar 2020",
-      "bullets": [
-        "Delivered end-to-end UiPath automation solutions for banking operations, reducing manual processing across multiple business processes.",
-        "Gathered requirements with stakeholders and authored BRD, PDD, and SDD documentation for automation delivery.",
-        "Designed workflows with exception handling, screen scraping, data scraping, CSV/Excel outputs, and reliable bot scheduling through UiPath Orchestrator."
-      ],
-      "desc": "RPA delivery and business analysis for card operations, billing, merchant payment processes, and production automation workflows.",
-      "tech": ["UiPath", "RPA", "BRD", "PDD", "SDD", "Excel", "Automation", "Banking"]
-    },
-    {
-      "id": 4,
-      "role": "Control-M Analyst",
-      "company": "Bank of Singapore",
-      "companyShort": "BOS",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "May 2018",
-      "periodEnd": "Apr 2019",
-      "bullets": [
-        "Provided end-to-end production support for Control-M failures, workflow development, server management, environment changes, and upgrades.",
-        "Managed Control-M/EM components, agents, calendars, dependencies, post-processing alerts, urgent changes, and weekend implementation roadmaps.",
-        "Worked with teams on RCA, proactive batch cycle analysis, SLA adherence, and production incident reduction across Unix, Windows, and T24 workflows."
-      ],
-      "desc": "Production support and Control-M administration for banking operations, change delivery, workflow design, and incident resolution.",
-      "tech": ["Control-M", "Unix", "Windows", "T24", "RCA", "SLA", "Change Management"]
+      "desc": "Actively learning Data Analytics tools and techniques including Python, SQL, Power BI, Excel, and GitHub through self-study and project-based practice.",
+      "tech": ["Python", "SQL", "Power BI", "Excel", "GitHub", "Data Visualization"]
     }
   ],
   "projects": [
     {
       "id": 1,
-      "title": "Log Analyzer",
-      "subtitle": "AI-Powered RCA Assistant",
-      "type": "Agentic AI",
-      "link": "https://ctm-log-analyzer.netlify.app/",
-      "image": "/assets/project-artgenio1.png",
-      "tech": ["React", "Node.js", "OpenAI API", "Prompt Engineering", "Control-M", "Log Analysis"],
-      "desc": "Designed and developed an LLM-powered support tool that analyzes Control-M logs, extracts structured insights from unstructured data, and surfaces probable root causes with actionable troubleshooting steps."
+      "title": "Portfolio Website",
+      "subtitle": "Personal Developer Portfolio",
+      "type": "Web Project",
+      "link": "https://github.com/irshad-portfolio",
+      "image": "/assets/project-portfolio.png",
+      "tech": ["HTML", "CSS", "JavaScript", "GitHub"],
+      "desc": "Designed and developed a personal portfolio website to showcase skills, projects, and learning progress as an aspiring Data Analyst."
     },
     {
       "id": 2,
-      "title": "Case Follow-Up Automation",
-      "subtitle": "AI-Driven Support Workflow",
-      "type": "Automation",
-      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/",
-      "image": "/assets/project-easyfolio1.png",
-      "tech": ["Python", "Salesforce", "SMTP", "AI Automation", "SLA", "Support Ops"],
-      "desc": "Built a Python-based automation system to monitor support cases and trigger intelligent follow-up emails, improving response time, reducing manual effort, and strengthening SLA compliance."
+      "title": "Data Analytics Learning Projects",
+      "subtitle": "Python & SQL Practice",
+      "type": "Data Analytics",
+      "link": "https://github.com/irshad-portfolio",
+      "image": "/assets/project-analytics.png",
+      "tech": ["Python", "SQL", "Power BI", "Excel", "Pandas"],
+      "desc": "A collection of data analytics practice projects including data cleaning, exploratory data analysis, SQL queries, and Power BI dashboards built while learning."
+    },
+    {
+      "id": 3,
+      "title": "Python Mini Projects",
+      "subtitle": "Beginner Python Scripts",
+      "type": "Python",
+      "link": "https://github.com/irshad-portfolio",
+      "image": "/assets/project-python.png",
+      "tech": ["Python", "GitHub"],
+      "desc": "Small Python projects and scripts built to practice core programming concepts including loops, functions, file handling, and basic data manipulation."
     }
   ],
   "publications": [
     {
       "id": 1,
-      "title": "Control-M Log Analyzer",
-      "platform": "Live Demo",
+      "title": "Portfolio Website",
+      "platform": "GitHub",
       "year": "2026",
-      "link": "https://ctm-log-analyzer.netlify.app/",
-      "desc": "An AI-powered log analysis prototype for Control-M support, using LLM workflows to detect likely root causes and generate troubleshooting guidance."
+      "link": "https://github.com/irshad-portfolio",
+      "desc": "A personal portfolio website built to present skills, projects, and learning journey as an aspiring Data Analyst."
     },
     {
       "id": 2,
-      "title": "AI-Driven Salesforce Case Follow-Up",
-      "platform": "LinkedIn",
+      "title": "Data Analytics Learning Projects",
+      "platform": "GitHub",
       "year": "2026",
-      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/",
-      "desc": "A support automation concept using Python and AI-assisted monitoring to improve follow-up discipline, response speed, and SLA adherence."
+      "link": "https://github.com/irshad-portfolio",
+      "desc": "Hands-on data analytics projects covering Python, SQL, Power BI, and Excel, created as part of an ongoing self-learning journey."
     },
     {
       "id": 3,
-      "title": "Enterprise Control-M Advisory",
-      "platform": "Practice Area",
+      "title": "Python Mini Projects",
+      "platform": "GitHub",
       "year": "2026",
-      "link": "mailto:jyotisinha0526@gmail.com",
-      "desc": "Architecture, sizing, upgrade planning, migration support, compatibility guidance, RCA, and runbook validation for Control-M environments."
+      "link": "https://github.com/irshad-portfolio",
+      "desc": "Beginner-friendly Python scripts and mini projects demonstrating core programming skills and practical problem solving."
     },
     {
       "id": 4,
-      "title": "RPA & Process Documentation",
-      "platform": "Practice Area",
+      "title": "Open to Opportunities",
+      "platform": "Contact",
       "year": "2026",
-      "link": "mailtoirshadnoushad64@gmail.com",
-      "desc": "Business analysis, PDD and SDD creation, UiPath workflow delivery, and production-ready automation design for banking operations."
+      "link": "mailto:irshadnoushad64@gmail.com",
+      "desc": "Open to internships, freelance projects, and entry-level Data Analyst roles. Feel free to reach out for collaboration or opportunities."
     }
   ],
   "socials": [
-    { "label": "GitHub",    "href": "https://github.com/jyotisinha0526/jyotisinha0526" },
-    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/jyoti-sinha-05349736" },
-    { "label": "Instagram", "href": "https://www.instagram.com/jyotisinha.official" },
-    { "label": "YouTube",   "href": "https://www.youtube.com/@Jyoti.ai.creative" }
+    { "label": "GitHub",    "href": "https://github.com/irshad-portfolio" },
+    { "label": "LinkedIn",  "href": "" },
+    { "label": "Instagram", "href": "" }
   ]
 }
